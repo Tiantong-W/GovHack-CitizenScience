@@ -8,6 +8,8 @@ The Tableau dashboard is functionated as the interactive platform between our te
 
 The user can set filters on dates and time to get self-defined data, while also able to see the mask wearing trend in different areas by time.
 
+![alt text](DashBoard & Infographics/Screen Shot 2020-08-16 at 1.49.15 PM.png "HeatMap") 
+
 ### Infographics
 
 The infographics and highlighted statistics help users be aware of the mask wearing issue, which encourages them to download the mobile app.
