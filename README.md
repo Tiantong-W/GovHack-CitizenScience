@@ -2,7 +2,7 @@
 
 ## Realtime Tableau DashBoard
 
-The Tableau dashboard is functionated as the interactive platform between our team and the citizens, future Moblie APP users, govenment and other organizations. Our dashboard is connected with the MongoDB server, while the collected data is updated in realtime. Individuals and organizations can make use of this dashboard by checking the potion of mask wearers to help in decision making. The data could also be analyzed in a modeling as a statistically significant feature.
+The Tableau dashboard is functionated as the interactive platform between our team and the citizens, future Moblie APP users, govenment and other organizations. Our dashboard is connected with the MongoDB server, while the collected data is updated in realtime. Individuals and organizations can make use of this dashboard by checking the portion of mask wearers to help in decision making. The data could also be analyzed in a modeling as a statistically significant feature.
 
 ### HeatMap of analystics on Mask Wearers by postcode
 
