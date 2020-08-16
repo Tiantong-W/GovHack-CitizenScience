@@ -8,11 +8,13 @@ The Tableau dashboard is functionated as the interactive platform between our te
 
 The user can set filters on dates and time to get self-defined data, while also able to see the mask wearing trend in different areas by time.
 
-![alt text](DashBoard & Infographics/Screen Shot 2020-08-16 at 1.49.15 PM.png "HeatMap") 
-
 ### Infographics
 
 The infographics and highlighted statistics help users be aware of the mask wearing issue, which encourages them to download the mobile app.
+
+### Mobile Version - could be incorporated in the MaskCount App 
+
+The Mobile version dashboard imporved user experience.
 
 ### Data We Used in Desmonstration
 
@@ -21,3 +23,7 @@ Because we are aiming at developing a mobile application for collecting data, th
 ### Future Possibilities on Data Science
 
 There could be a lot of perspectives on how to use and analyse the collected data of mask wearing, including finding its correlation with the majority human race in different areas by postcode, its correlation with police forces, its correlation with the Covid-19 daily growth rates. We could also generate new features like classifications on mask consumption for Data Science modeling usage. 
+
+
+![alt text](https://github.com/Tiantong-W/GovHack-CitizenScience/blob/master/DashBoard%20%26%20Infographics/Dashboard-general.png "DashBoard") 
+
